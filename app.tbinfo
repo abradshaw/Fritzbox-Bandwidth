@@ -1,0 +1,7 @@
+{
+    "name": "Fritz Bandwidth",
+    "author": "Ade Bradshaw",
+    "caption": "Monitor your Fritzbox IP and bandwidth",
+    "version": "0.1",
+    "website": "https://github.com/abradshaw/Fritzbox-Bandwidth",
+}
